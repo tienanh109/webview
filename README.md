@@ -6,7 +6,7 @@ A simple sample project (java) in Android Studio/AIDE (Including both local load
 
 ## Download Debug Build
 
-**Download**: (Click here)[https://github.com/tienanh109/webview/raw/main/app/build/app.apk]
+**Download**: [Click here](https://github.com/tienanh109/webview/raw/main/app/build/app.apk)
 
 ## How to build
 1. Download Android Studio/AIDE
