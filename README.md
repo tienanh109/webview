@@ -3,10 +3,10 @@
 A simple sample project (java) in Android Studio/AIDE (Including both local load and url)
 
 **Language:** Java
-**Source code status:** Soon!
 
 ## Download Debug Build
-**Download**: Coming Soon!
+
+**Download**: (Click here)[https://]
 
 ## How to build
 1. Download Android Studio/AIDE
