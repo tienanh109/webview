@@ -2,7 +2,8 @@
 ## Description
 A simple sample project (java) in Android Studio/AIDE (Including both local load and url)
 
-Source code status: Soon!
+**Language:** Java
+**Source code status:** Soon!
 
 ## Download Debug Build
 **Download**: Coming Soon!
