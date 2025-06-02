@@ -11,7 +11,7 @@ A simple sample project (java) in Android Studio/AIDE (Including both local load
 ## How to build
 1. Download Android Studio/AIDE
 2. Clone this repo
-3. Import project into
+3. Import project into Android Studio 
 4. Prepare key sign or build debug
 5. And build!
 
@@ -20,4 +20,4 @@ A simple sample project (java) in Android Studio/AIDE (Including both local load
 
 ## Notes
 **Please note this project is written for educational purposes only and is intended for beginners learning Android Studio/AIDE.**
-**No credit required in this project, use freely**
+**No credit required in this project, use freely. It is a simple task completed and is for learning purposes only and is not a complete app!**
